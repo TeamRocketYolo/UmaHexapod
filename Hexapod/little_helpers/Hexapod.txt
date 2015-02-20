@@ -1,0 +1,8 @@
+# Abmessungen des Hexapods für inverse Kinematik - Double values
+
+NB = 35.0;
+ON = 95.0;
+OM = 82.0;
+OQ = 110.0;
+a = 75.0;
+b = 106.0;
